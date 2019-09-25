@@ -1,6 +1,6 @@
 # Researcher
 
-### [Demo Website](http://ankitsultana.com/researcher)
+### [Demo Website](http://GitHub.com/theshahid/researcher)
 
 A clean, single column, monospace resume template built for jekyll
 
