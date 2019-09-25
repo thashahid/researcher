@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="P_20160714_173015_BF.jpg">
+<img class="profile-picture" src="IMG_20190925_190555.jpg">
 
 Hi! I am md shahid. Graduate from Fareast International University,Dhaka.You can find me on github [GitHub](https://github.com/theshahid)
 
