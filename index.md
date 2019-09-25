@@ -6,13 +6,13 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a junior Cyber Ninja. Graduation in Computer Science and Engineering at Fareast International University,Dhaka.
 
 This is a jekyll based resume template. You can find me on github[GitHub](https://GitHub.io/theshahid)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Cyber security awareness. Cyber security education. Cyber Open source project. Linux ❤️. Server less project.
 
 ## Publications
 
@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+This is a [link](http://github.io/theshahid). Something *italics* and something **bold**.
 
 Here is a table
 
@@ -41,5 +41,5 @@ Here is a blockquote
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Foo Bar: Head of Department, FIU
+* Fauzia Yasmeen: Associate Professor, Department of Computer Science, FIU.
