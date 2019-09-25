@@ -1,6 +1,4 @@
-Op---
-layout: default
----
+
 
 ## About Me
 
