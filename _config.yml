@@ -1,4 +1,4 @@
-title: Researcher
+title: Cyber Ninja
 url: "https://theshahid.github.io"
 baseurl: "/researcher"
 
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/theshahid"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
