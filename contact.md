@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [cyberninja@gmail.com](mailto: cyberninja@gmail.com)
+* Email: [xyz.gmail.com](mailto: xyz.gmail.com)
 
 * Phone: [+880 123456789](tel:+880 123456789)
 
