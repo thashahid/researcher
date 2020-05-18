@@ -22,5 +22,7 @@ nav:
    link: "resume.pdf"
  - name: "Blog"
    link: "blog"
+ - name: "Notes"
+   link: "notes"
  - name: "Contact"
    link: "contact"
