@@ -1,5 +1,5 @@
-title: Cyber Ninja
-url: "https://theshahid.github.io"
+title: thashahid
+url: "https://thashahid.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/theshahid"
+footer_url: "https://github.com/thashahid"
 footer_text: "❤️"
 
 sass:
