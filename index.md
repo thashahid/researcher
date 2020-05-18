@@ -4,7 +4,7 @@
 
 <img class="profile-picture" src="IMG_20190925_190555.jpg">
 
-Hi! I am md shahid. Graduate from Fareast International University,Dhaka.You can find me on github [GitHub](https://github.com/theshahid)
+Hi! I am md shahid. Graduate from Fareast International University,Dhaka.You can find me on github [GitHub](https://github.com/thashahid)
 
 ## Research Interest
 
@@ -25,7 +25,7 @@ Cyber security awareness. Cyber security education. Cyber Open source project. L
 
 
 
-This is a [link](https://github.com/theshahid) Something *italics* and something **bold**.
+This is a [link](https://github.com/thashahid) Something *italics* and something **bold**.
 
 ## Certificate
 
