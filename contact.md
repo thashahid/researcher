@@ -21,5 +21,5 @@ is_contact: true
 ## Social
 
 1. [Facebook](#)
-2. [Twitter](#)
+2. [Twitter](https://twitter.com/thashahid)
 3. [Google+](#)
