@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img class="profile-picture" src="DSC_0068.JPG">
+<img class="profile-picture" src="DSC_0056.JPG">
 
 Hi! I am md shahid. Graduate from Fareast International University,Dhaka.You can find me on github [GitHub](https://github.com/thashahid)
 
