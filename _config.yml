@@ -1,4 +1,4 @@
-title: thashahid
+title: mdshahid
 url: "https://thashahid.github.io"
 baseurl: "/researcher"
 
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/thashahid"
-footer_text: "❤️"
+footer_text: "Have a great day❤️"
 
 sass:
     style: compressed
